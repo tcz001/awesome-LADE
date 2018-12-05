@@ -4,7 +4,7 @@ LADE: Large Architecture Digitalize Evolutionary
 
 Catalog:
 
-[Architecture Model](Architecture-Model)
+[Architecture Model](architecture-model)
 
 Architecture Model
 ===
